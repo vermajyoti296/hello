@@ -1,0 +1,28 @@
+h2 {
+    text-align: center;
+    background-color: bisque;
+    font-family: cursive;
+    font-weight: bold;
+    padding: 5px 5px;
+    font-size: 20px;
+}
+
+h3 {
+    background-color: pink;
+    font-family: cursive;
+    font-weight: bold;
+    padding: 5px 5px;
+    font-size: 20px;
+    border-radius: 10px;
+    outline-style: double;
+}
+
+button {
+    background-color: burlywood;
+    font-family: cursive;
+    font-weight: bold;
+    padding: 5px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    outline-style: double;
+}
